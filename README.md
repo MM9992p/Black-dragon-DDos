@@ -11,6 +11,7 @@ pip install os
 git clone https://github.com/MM9992p/Black-dragon-DDos.git
 python DDos black dragon.py
 use/использовать
+
 1)url/ссылка 
 2)the number of threads i.e. requests to the site or server
 количество потоков тоесть запросов на сайт или сервер
